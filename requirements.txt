@@ -1,0 +1,30 @@
+# AI Construction Site Safety Intelligence Platform
+# Essential Requirements for Dashboard
+
+# Deep Learning & Computer Vision
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+torch>=2.0.0
+
+# Object Tracking
+deep-sort-realtime>=1.3.0
+filterpy>=1.4.5
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Dashboard & Visualization
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# Configuration & Utilities
+pyyaml>=6.0
+reportlab>=3.6.15
+
+# Gemini API Access
+google-generativeai>=0.8.0
+

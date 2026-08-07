@@ -1,0 +1,52 @@
+# Python environment
+.venv/
+venv/
+ENV/
+.env/
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit file lock
+.streamlit/
+
+# Database / analytics artifacts
+*.db
+
+# Model checkpoints and weights
+*.pt
+*.pth
+*.onnx
+
+# VS Code
+.vscode/
+
+# macOS files
+.AppleDouble
+.LSOverride
+
+# Other
+*.swp
+*.swo
